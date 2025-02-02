@@ -1,2 +1,2 @@
 # Data-Analysis-Project
- My projects demonstrating my different skills.
+ Projects demonstrating my different skills.
